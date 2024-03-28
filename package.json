@@ -1,0 +1,23 @@
+{
+  "name": "buddy",
+  "displayName": "Buddy",
+  "description": "VSCode dark color theme",
+  "version": "0.0.1",
+  "repository": "https://github.com/SurendarYama/Buddy",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Buddy",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Buddy-color-theme.json"
+      }
+    ]
+  }
+}
