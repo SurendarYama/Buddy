@@ -1,8 +1,8 @@
 {
-  "name": "surendar-yama-buddy",
-  "displayName": "Surendar Yama Buddy",
+  "name": "my-buddy",
+  "displayName": "My Buddy",
   "description": "VSCode dark color theme",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": "https://github.com/SurendarYama/Buddy",
   "engines": {
     "vscode": "^1.87.0"
@@ -14,7 +14,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Surendar Yama Buddy",
+        "label": "My Buddy",
         "uiTheme": "vs-dark",
         "path": "./themes/Buddy-color-theme.json"
       }
