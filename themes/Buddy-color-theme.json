@@ -15,7 +15,6 @@
     "scrollbar.shadow": "#3992ff",
     "editorLineNumber.foreground": "#e52165",
     "editorLineNumber.activeForeground": "#fecc1b",
-
     "editorSuggestWidget.background": "#e52165",
     "editorSuggestWidget.selectedBackground": "#0d0d0d",
     "editorSuggestWidget.highlightForeground": "#fecc1b",
@@ -27,7 +26,7 @@
     "toolbar.activeBackground": "#e52165",
     "toolbar.hoverBackground": "#e52165",
     "toolbar.hoverOutline": "#e52165",
-    "menu.selectionBackground": "#320d3e",
+    "menu.selectionBackground": "#e52165",
     "list.hoverBackground": "#e52165",
     "list.hoverForeground": "#ffffff",
     "editorCursor.foreground": "#fecc1b",
